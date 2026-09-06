@@ -1,6 +1,6 @@
 const CONFIG = {
       nome: 'Minha Lélé',
-      dataInicio: '2026-06-05T00:00:00-03:00',
+      dataInicio: '2026-06-06T00:00:00-03:00',
       musicaUrl: 'https://suamusica.com.br/embed/cd/2443552/vertical/0/dark',
       musicaTitulo: 'Nossa música',
       musicaArtista: 'POESIA ACÚSTICA #2 - SOBRE NÓS',
